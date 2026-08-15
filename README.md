@@ -22,3 +22,7 @@
 ## 这个仓库用来做什么
 
 这里会记录我的学习过程、项目体验和视频选题。
+
+## 项目体验记录
+
+- [Pong Game：第一个网页 AI 游戏体验](projects/pong-game-review.md)
